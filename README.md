@@ -7,6 +7,5 @@ In this application following tools and technologies are used to create burger l
 * Handlebars ( To generateHTML pages)
 * ORM (Object-Relational Mapping)
 
-
-
-
+# Burger application is deployed on Heroku 
+https://sleepy-springs-57706.herokuapp.com/burgers
